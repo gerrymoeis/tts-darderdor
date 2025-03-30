@@ -115,14 +115,14 @@ class ResultScreen extends StatelessWidget {
                           Text(
                             resultEmoji,
                             style: const TextStyle(
-                              fontSize: 24,
+                              fontSize: 18,
                             ),
                           ),
                           const SizedBox(width: 8),
                           Text(
                             resultMessage,
                             style: GoogleFonts.poppins(
-                              fontSize: 20,
+                              fontSize: 16,
                               fontWeight: FontWeight.bold,
                               color: resultColor,
                               letterSpacing: 0.8,
