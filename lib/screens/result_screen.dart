@@ -71,7 +71,7 @@ class ResultScreen extends StatelessWidget {
                   child: Text(
                     'Hasil Quiz',
                     style: GoogleFonts.poppins(
-                      fontSize: 28,
+                      fontSize: 22,
                       fontWeight: FontWeight.bold,
                       color: Colors.white,
                       letterSpacing: 1.5,

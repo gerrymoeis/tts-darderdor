@@ -1,7 +1,6 @@
 // lib/widgets/question_text.dart
 import 'package:flutter/material.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
-import '../constants/app_constants.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class QuestionText extends StatelessWidget {
