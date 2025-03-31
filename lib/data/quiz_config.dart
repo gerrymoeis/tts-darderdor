@@ -8,6 +8,11 @@ final quizQuestions = [
     letterPool: ["B", "E", "N", "A", "R", "S"],
   ),
   QuizQuestion(
+    question: "Fakultas Vokasi ada di Kampus? ________G",
+    answer: "KETINTANG",
+    letterPool: ["G", "D", "E", "K", "I", "A", "N", "T", "L", "T", "N"],
+  ),
+  QuizQuestion(
     question: "D4 MI berada di bawah Fakultas Teknik UNESA?",
     answer: "SALAH",
     letterPool: ["S", "A", "L", "H", "B", "E", "A"],
@@ -15,32 +20,27 @@ final quizQuestions = [
   QuizQuestion(
     question: "Jurusan D4 MI berada di bawah Fakultas ______",
     answer: "VOKASI",
-    letterPool: ["V", "O", "K", "A", "S", "I", "L", "M"],
+    letterPool: ["V", "K", "S", "I", "L", "M", "O", "A"],
   ),
   QuizQuestion(
     question: "Bahasa pemrograman utama untuk mata kuliah Mobile Programming: _ _ _ _",
     answer: "DART",
-    letterPool: ["D", "A", "R", "T", "J", "S", "K", "L"],
+    letterPool: ["D", "A", "J", "T", "S", "K", "L", "R"],
   ),
   QuizQuestion(
-    question: "Sistem Informasi Akademik Mahasiswa UNESA disebut SI_ _",
+    question: "Sistem Informasi Akademik Mahasiswa UNESA disebut SI_____",
     answer: "SIAKADU",
     letterPool: ["S", "I", "A", "M", "U", "N", "D", "K", "E", "A"],
   ),
   QuizQuestion(
-    question: "Tahun berdiri Prodi D4 MI: 2_2_",
-    answer: "2020",
-    letterPool: ["2", "0", "1", "5", "0", "3", "7", "4", "2", "1"],
+    question: "Tahun berdiri Prodi D4 MI: 20__",
+    answer: "2019",
+    letterPool: ["2", "1", "5", "0", "3", "7", "4", "9", "1"],
   ),
   QuizQuestion(
-    question: "Festival teknologi tahunan UNESA: IN_ES_",
-    answer: "INFEST",
-    letterPool: ["I", "N", "F", "E", "S", "T", "A", "M"],
-  ),
-  QuizQuestion(
-    question: "Sistem operasi berbasis Linux yang dipelajari: _E_IAN",
-    answer: "DEBIAN",
-    letterPool: ["D", "E", "B", "I", "A", "N", "U", "L"],
+    question: "Dosen Mata Kuliah Pemrograman Mobile: Pak A____",
+    answer: "AGUNG",
+    letterPool: ["N", "F", "E", "S", "G", "A", "U", "G"],
   ),
   QuizQuestion(
     question: "Laboratorium IoT di UNESA bernama L_RA",
