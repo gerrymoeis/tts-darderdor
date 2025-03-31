@@ -23,7 +23,7 @@ final quizQuestions = [
     letterPool: ["V", "K", "S", "I", "L", "M", "O", "A"],
   ),
   QuizQuestion(
-    question: "Bahasa pemrograman utama untuk mata kuliah Mobile Programming: _ _ _ _",
+    question: "Bahasa pemrograman utama untuk mata kuliah Mobile Programming: ____",
     answer: "DART",
     letterPool: ["D", "A", "J", "T", "S", "K", "L", "R"],
   ),
@@ -31,6 +31,11 @@ final quizQuestions = [
     question: "Sistem Informasi Akademik Mahasiswa UNESA disebut SI_____",
     answer: "SIAKADU",
     letterPool: ["S", "I", "A", "M", "U", "N", "D", "K", "E", "A"],
+  ),
+  QuizQuestion(
+    question: "Apa Bahasa Pemrograman yang Diajarkan di Semester 1: P_____",
+    answer: "PYTHON",
+    letterPool: ["H", "A", "T", "N", "O", "U", "Y", "P"],
   ),
   QuizQuestion(
     question: "Tahun berdiri Prodi D4 MI: 20__",
@@ -43,23 +48,13 @@ final quizQuestions = [
     letterPool: ["N", "F", "E", "S", "G", "A", "U", "G"],
   ),
   QuizQuestion(
-    question: "Laboratorium IoT di UNESA bernama L_RA",
-    answer: "LORA",
-    letterPool: ["L", "O", "R", "A", "I", "N", "E", "T"],
+    question: "Himpunan mahasiswa D4 MI disebut HIMA______",
+    answer: "FORTIC",
+    letterPool: ["R", "M", "C", "N", "K", "O", "D", "T", "C", "F", "I"],
   ),
   QuizQuestion(
     question: "Jumlah SKS untuk Projek Akhir: _ _ _ _ (angka)",
     answer: "ENAM",
     letterPool: ["E", "N", "A", "M", "T", "U", "L", "G"],
   ),
-  // QuizQuestion(
-  //   question: "Himpunan mahasiswa D4 MI disebut HIMA _ _ _ _ _ _ (6 Huruf)",
-  //   answer: "FORTIC",
-  //   letterPool: ["R", "M", "C", "N", "K", "O", "D", "T", "C", "F", "I"],
-  // ),
-  // QuizQuestion(
-  //   question: "Mata kuliah keamanan jaringan: _ _ _ _ _ Security (5 Huruf)",
-  //   answer: "CYBERC",
-  //   letterPool: ["C", "E", "R", "S", "B", "U", "Y", "T"],
-  // ),
 ];
