@@ -8,14 +8,14 @@ final quizQuestions = [
     letterPool: ["B", "E", "N", "A", "R", "S"],
   ),
   QuizQuestion(
-    question: "Fakultas Vokasi ada di Kampus? ________G",
-    answer: "KETINTANG",
-    letterPool: ["G", "D", "E", "K", "I", "A", "N", "T", "L", "T", "N"],
-  ),
-  QuizQuestion(
     question: "D4 MI berada di bawah Fakultas Teknik UNESA?",
     answer: "SALAH",
     letterPool: ["S", "A", "L", "H", "B", "E", "A"],
+  ),
+  QuizQuestion(
+    question: "Kaprodi D4 MI saat ini adalah Pak D____",
+    answer: "DODIK",
+    letterPool: ["K", "O", "D", "A", "R", "D", "I"],
   ),
   QuizQuestion(
     question: "Jurusan D4 MI berada di bawah Fakultas ______",
@@ -51,10 +51,5 @@ final quizQuestions = [
     question: "Himpunan mahasiswa D4 MI disebut HIMA______",
     answer: "FORTIC",
     letterPool: ["R", "M", "C", "N", "K", "O", "D", "T", "C", "F", "I"],
-  ),
-  QuizQuestion(
-    question: "Jumlah SKS untuk Projek Akhir: _ _ _ _ (angka)",
-    answer: "ENAM",
-    letterPool: ["E", "N", "A", "M", "T", "U", "L", "G"],
   ),
 ];
